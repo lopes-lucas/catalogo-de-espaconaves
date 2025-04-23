@@ -1,12 +1,16 @@
+* {
+  background-color: #171717;
+}
+
 :root {
     --background: #171717;
     --foreground: #ffffff;
 }
-/* @media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
   }
-} */
+}
 html
 html,
 body {
